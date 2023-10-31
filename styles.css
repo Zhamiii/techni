@@ -1,0 +1,65 @@
+html, body, p, div {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+    font-style: normal;
+    line-height: normal;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.m-b {
+    margin-bottom: 16px;
+}
+.text-white {
+    color: white;
+    text-transform: uppercase;
+  }
+  
+  .name-of-blocks {
+    color: black;
+
+    text-transform: uppercase;
+  }
+.name-of-news {
+    color: var(--306A67, #306A67);
+    font-size: normal;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal; 
+    letter-spacing: normal;
+    text-transform: uppercase;
+    margin-top: 5px;
+}
+.publication-date {
+    color: #8F8F8F;
+    font-family: Montserrat;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 5px;
+    padding-bottom: 5 px;
+}
+.sosial-icons {
+    margin-right: 6px;
+    margin-top: 10px; 
+}
+
+.Contact-details {
+    color: #D1D1D1;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 16px;
+    margin-top: 10px;
+    line-height: 10px;
+    }
+.emblem-of-site {
+margin-top: 10 px;
+margin-right: 20 px;
+}
